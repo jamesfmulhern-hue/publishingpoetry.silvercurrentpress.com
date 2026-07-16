@@ -6,6 +6,7 @@ const NAV_ITEMS = [
   { href: "craft.html",       label: "Craft" },
   { href: "techniques.html",  label: "Techniques" },
   { href: "submissions.html", label: "Submissions" },
+  { href: "philosophy-of-writing.html", label: "Philosophy" },
   { href: "glossary.html",    label: "Glossary" },
 ];
 
