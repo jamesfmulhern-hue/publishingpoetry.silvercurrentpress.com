@@ -73,6 +73,9 @@ function renderFooter() {
       <div class="footer-bottom">
         ◆ &nbsp; Prepared by James F. Mulhern &nbsp; ◆ &nbsp; Silver Current Press &nbsp; ◆ &nbsp; 2026 &nbsp; ◆
       </div>
+      <div class="footer-bottom" style="margin-top:14px;padding-top:14px;border-top:1px solid rgba(245,239,224,0.14);font-size:0.88em;">
+        Part of <a href="https://salon.silvercurrentpress.com" style="color:rgba(245,239,224,0.85);border-bottom:1px dotted rgba(245,239,224,0.4);">The 2601 Salon</a> — the working catalog of literary courses taught by James F. Mulhern. Program directors and venue partners: <a href="https://salon.silvercurrentpress.com/partners.html" style="color:rgba(245,239,224,0.85);border-bottom:1px dotted rgba(245,239,224,0.4);">bring a course to your community</a>.
+      </div>
     </div>
   </footer>`;
 }
